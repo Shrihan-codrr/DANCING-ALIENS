@@ -1,0 +1,51 @@
+body
+{
+    background: linear-gradient(rgb(49, 4, 100) 75%, rgb(70, 43, 226) 100%);
+    color : white;
+    
+}
+.header_div h2
+{
+    color: rgb(230, 105, 105);
+    font-family: 'Russo One', sans-serif;
+    border-style: dashed;
+}
+
+
+.header_div p
+{
+    color: rgb(125, 228, 28);
+    font-family: 'Staatliches',bold;
+}
+
+.header_div{
+    background: linear-gradient(rgb(49, 4, 100) 75%, rgb(70, 43, 226) 100%);
+    width: 100%;
+    text-align: center;
+}
+    
+
+   
+.main_div button
+{
+ color:blueviolet;
+ margin: 30px;
+
+}
+
+.main_div{
+
+    background: linear-gradient(pink 50%, blueviolet 75%, rgb(49, 4, 100) 100%);
+
+    padding: 40px;
+
+
+}
+
+.copy_right_footer{
+
+   color:cyan;
+   position: fixed;
+   bottom: 20;
+
+}
